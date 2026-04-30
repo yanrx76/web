@@ -4,15 +4,14 @@
  */
 window.SITE_CONFIG = {
   "companyCn": "新戈尔顿（上海）科技有限公司",
-  "companyEn": "NewGolton (Shanghai) Technology Co., Ltd.",
+  "companyEn": "Newgolton (Shanghai) Technology Co., Ltd.",
   "brandSlug": "newgolton",
   "productName": "Golton AI",
   "productTaglineCn": "轻社交 · 情绪价值 · AI 智能体",
   "productTaglineEn": "Light social · Emotional value · AI agents",
-  "contactEmail": "contact@example.com",
-  "addressCn": "【请填写】上海市 · 预留地址行一",
-  "addressCnLine2": "【请填写】预留地址行二（可删）",
-  "phone": "+86 【请填写】",
+  "contactEmail": "simon@newgolton.cn",
+  "addressCn": "上海市杨浦区政通路65号2层",
+  "phone": "",
   "icp": "",
   "techHighlights": [
     {
