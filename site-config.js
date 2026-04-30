@@ -11,8 +11,8 @@ window.SITE_CONFIG = {
   "productTaglineEn": "Light social · Emotional value · AI agents",
   "contactEmail": "simon@newgolton.cn",
   "addressCn": "上海市杨浦区政通路65号2层",
-  "addressCnLine2": " ",
-  "phone": "",
+  "addressCnLine2": ".",
+  "phone": ".",
   "icp": "",
   "techHighlights": [
     {
